@@ -14,7 +14,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/howburrbot.git
+    git clone https://github.com/Vex1cK/Decepticon-s-project
     cd howburrbot
     ```
 
@@ -51,9 +51,9 @@ Once the bot is running, you can interact with it on Telegram:
 We welcome contributions from the community! To contribute:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to the branch.
 5. Open a Pull Request.
 
 ## License
@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please open an issue on GitHub or contact us directly at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please open an issue on GitHub or contact us directly at [nanefedov@edu.hse.ru]).
 
 ---
 
