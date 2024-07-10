@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 4. **Run the bot:**
     ```bash
-    python OMGITSOURBOT.py
+    python OMGITISOURBOT.py
     ```
 
 ## Usage
