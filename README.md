@@ -1,6 +1,6 @@
 # HowBurrBot
 
-HowBurrBot is a Transformer-based neural network designed to detect rhotacism (non-standard pronunciation of the 'r' sound) in audio files. The neural network is wrapped in a Telegram bot (@howburrbot). Users can send voice messages to the bot, which then predicts whether the sender has rhotacism.
+HowBurrBot is a Transformer-based neural network designed to detect rhotacism (non-standard pronunciation of the 'r' sound) in audio files. The neural network is wrapped in a Telegram bot. Users can send voice messages to the bot, which then predicts whether the sender has rhotacism.
 
 ## Features
 
@@ -15,7 +15,6 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Vex1cK/Decepticon-s-project
-    cd howburrbot
     ```
 
 2. **Create and activate a virtual environment:**
@@ -24,25 +23,20 @@ To set up the project locally, follow these steps:
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
     ```
 
-3. **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Set up your Telegram bot:**
+3. **Set up your Telegram bot:**
     - Create a new bot on Telegram by talking to [@BotFather](https://t.me/BotFather).
-    - Copy the bot token and paste it into the `config.py` file.
+    - Copy the bot token and paste it into the `.env` file. You should to create it firstly next to `oxr.py`
 
-5. **Run the bot:**
+4. **Run the bot:**
     ```bash
-    python bot.py
+    python OMGITSOURBOT.py
     ```
 
 ## Usage
 
 Once the bot is running, you can interact with it on Telegram:
 
-1. Open Telegram and search for @howburrbot.
+1. Open your Telegram bot.
 2. Send a voice message to the bot.
 3. Receive a prediction on whether the sender has rhotacism.
 
@@ -58,7 +52,7 @@ We welcome contributions from the community! To contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GTP3 License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
